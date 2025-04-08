@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/muratsag/Desktop/Working/Basic Atm Simulator/atm'
+relocations:     []
+...
